@@ -5,6 +5,8 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  display: flex;            
+  justify-content: center;
   margin: 0;
   padding: 0;
 }
